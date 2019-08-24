@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Village Sign Stats
+// @name        Village Sign Series Stats
 // @namespace   http://www.cryotest.com/
 // @description Adds your Village Sign Series stats badge onto your profile page and Village Sign Series cache pages on geocaching.com.
 // @license     GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
