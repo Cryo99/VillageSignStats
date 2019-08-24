@@ -1,4 +1,4 @@
-# VillageSignStats
+# Village Sign Stats
 
 A userscript that shows Village Sign Series cache stats on geocaching.com. It adds the [Village Sign Series](https://www.villagesignseries.co.uk/) banner in the following places:
 
