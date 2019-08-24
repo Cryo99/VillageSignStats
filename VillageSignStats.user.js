@@ -10,7 +10,7 @@
 // @icon64      https://raw.githubusercontent.com/Cryo99/VillageSignStats/master/icon64.png
 // @include     /^https?://www\.geocaching\.com/(account|my|default|geocache|profile|seek/cache_details|p)/
 // @exclude     /^https?://www\.geocaching\.com/(login|about|articles|myfriends|account/*)/
-// @version     0.0.3
+// @version     0.0.1
 // @supportURL	https://github.com/Cryo99/VillageSignStats
 // @require     https://openuserjs.org/src/libs/sizzle/GM_config.js
 // @grant       GM_xmlhttpRequest
@@ -37,7 +37,7 @@
 
 	function displayStats(stats, page, brand){
 		function getHtml(uname, brand){
-			return "<a class='vss-badge' href='https://www.villagesignseries.co.uk' title='A Fine Pair stats.'><img src='https://img.villagesignseries.co.uk/awards/find-badge.php?name=" + uname + "&brand=" + brand + "' /></a>";
+			return "<a class='vss-badge' href='https://www.villagesignseries.co.uk' title='Village Sign Series stats.'><img src='https://img.villagesignseries.co.uk/awards/find-badge.php?name=" + uname + "&brand=" + brand + "' /></a>";
 		}
 		var vssWidget = document.createElement("div"),
 			html = "",
