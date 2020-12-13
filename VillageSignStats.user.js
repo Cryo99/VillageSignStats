@@ -10,10 +10,10 @@
 // @icon64      https://raw.githubusercontent.com/Cryo99/VillageSignStats/master/icon64.png
 // @include     /^https?://www\.geocaching\.com/(account/dashboard|my|default|geocache|profile|seek/cache_details|p)/
 // @exclude     /^https?://www\.geocaching\.com/(login|about|articles|myfriends)/
-// @version     1.0.0
+// @version     1.0.1
 // @supportURL	https://github.com/Cryo99/VillageSignStats
 // @require     https://openuserjs.org/src/libs/sizzle/GM_config.js
-// @require     https://greasyfork.org/scripts/389508-gc-stats-banner-library/code/GC%20Stats%20Banner%20Library.js?version=880214
+// @require     https://greasyfork.org/scripts/389508-gc-stats-banner-library/code/GC%20Stats%20Banner%20Library.js?version=880219
 // @grant       GM_xmlhttpRequest
 // @grant       GM_registerMenuCommand
 // @grant       GM_setValue
